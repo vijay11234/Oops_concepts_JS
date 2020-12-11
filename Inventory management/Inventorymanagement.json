@@ -1,0 +1,53 @@
+{
+    "rice": [
+        {
+            "name": "Jasmine",
+            "weight": "30",
+            "price": "20"
+        },
+        {
+            "name": "Parboiled",
+            "weight": "20",
+            "price": "35"
+        },
+        {
+            "name": "Sticky",
+            "weight": "10",
+            "price": "45"
+        }
+    ],
+    "pulses": [
+        {
+            "name": "Brans",
+            "weight": "25",
+            "price": "20"
+        },
+        {
+            "name": "Dry Peas",
+            "weight": "25",
+            "price": "25"
+        },
+        {
+            "name": "Pigeon pras",
+            "weight": "10",
+            "price": "30"
+        }
+    ],
+    "wheat": [
+        {
+            "name": "Sharbati",
+            "weight": "22",
+            "price": "35"
+        },
+        {
+            "name": "Sonalika",
+            "weight": "16",
+            "price": "45"
+        },
+        {
+            "name": "Kalyan Sona",
+            "weight": "12",
+            "price": "32"
+        }
+    ]
+}
