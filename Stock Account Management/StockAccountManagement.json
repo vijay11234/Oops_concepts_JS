@@ -1,0 +1,19 @@
+{
+    "Stock": [
+        {
+            "name": "Bridge Labz",
+            "numberOfShares": "30",
+            "price": "150"
+        },
+        {
+            "name": "Hewlett-Packard",
+            "numberOfShares": "20",
+            "price": "500"
+        },
+        {
+            "name": "Precision infomatich",
+            "numberOfShares": "20",
+            "price": "50"
+        }
+    ]
+}
